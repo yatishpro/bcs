@@ -1,0 +1,538 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1556864781;s:6:"expire";i:1556951181;s:4:"tags";s:776:"787_CAT_P,787_BLOCK_HTML,787_CAT_P_2047,787_CAT_P_795,787_CAT_P_783,787_CAT_P_784,787_CAT_P_785,787_CAT_P_786,787_CAT_P_787,787_CAT_P_788,787_CAT_P_789,787_CAT_P_790,787_CAT_P_791,787_CAT_P_792,787_CAT_P_793,787_CAT_P_794,787_CAT_P_782,787_CAT_P_770,787_CAT_P_771,787_CAT_P_772,787_CAT_P_773,787_CAT_P_774,787_CAT_P_775,787_CAT_P_776,787_CAT_P_777,787_CAT_P_778,787_CAT_P_779,787_CAT_P_780,787_CAT_P_781,787_CAT_P_756,787_CAT_P_744,787_CAT_P_745,787_CAT_P_746,787_CAT_P_747,787_CAT_P_748,787_CAT_P_749,787_CAT_P_750,787_CAT_P_751,787_CAT_P_752,787_CAT_P_753,787_CAT_P_754,787_CAT_P_755,787_CAT_P_769,787_CAT_P_757,787_CAT_P_758,787_CAT_P_759,787_CAT_P_760,787_CAT_P_761,787_CAT_P_762,787_CAT_P_763,787_CAT_P_764,787_CAT_P_765,787_CAT_P_766,787_CAT_P_767,787_CAT_P_768,787_MAGE";}
+        <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://127.0.0.1/bcs/fusion-backpack-1.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/b/mb02-gray-0_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Image"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Fusion Backpack Demo"
+                                       href="http://127.0.0.1/bcs/fusion-backpack-1.html"
+                                       class="product-item-link">
+                                        Fusion Backpack Demo                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="2047" data-price-box="product-id-2047">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-2047-widget-product-grid"                data-price-amount="59"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹59.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-MB02-1" action="http://127.0.0.1/bcs/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C/product/2047/" method="post">
+                                                            <input type="hidden" name="product" value="2047">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjAuMS9iY3MvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RXlOeTR3TGpBdU1TOWlZM012UDFOSlJEMDVhV3hzYW5RM00zVmhiakZrWjJneU5uWnJielJ6T0haeE13JTJDJTJDL3Byb2R1Y3QvMjA0Ny8,">
+                                                            <input name="form_key" type="hidden" value="NukJbYapuQbiftgY" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/bcs\/wishlist\/index\/add\/","data":{"product":"2047","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/127.0.0.1\/bcs\/catalog\/product_compare\/add\/","data":{"product":"2047","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://127.0.0.1/bcs/kratos-gym-pant.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/p/mp05-blue_main_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Kratos Gym Pant"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Kratos Gym Pant"
+                                       href="http://127.0.0.1/bcs/kratos-gym-pant.html"
+                                       class="product-item-link">
+                                        Kratos Gym Pant                                    </a>
+                                </strong>
+                                                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="73%">
+            <span style="width:73%"><span>73%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://127.0.0.1/bcs/kratos-gym-pant.html#reviews">3&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="795" data-price-box="product-id-795">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-795-widget-product-grid"                data-price-amount="45.6"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹45.60</span></span>
+        </span>
+</span>
+
+    <span class="old-price sly-old-price no-display">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-795-widget-product-grid"                data-price-amount="57"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">₹57.00</span></span>
+        </span>
+    </span>
+
+</div>
+                                <div class="swatch-opt-795"
+     data-role="swatch-option-795"></div>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=swatch-option-795]": {
+            "Magento_Swatches/js/swatch-renderer": {
+                "selectorProduct": ".product-item-details",
+                "onlySwatches": true,
+                "enableControlLabel": false,
+                "numberToShow": 16,
+                "jsonConfig": {"attributes":{"145":{"id":"145","code":"size","label":"Size","options":[{"id":"176","label":"32","products":["783","784","785"]},{"id":"177","label":"33","products":["786","787","788"]},{"id":"178","label":"34","products":["789","790","791"]},{"id":"179","label":"36","products":["792","793","794"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"49","label":"Black","products":["783","786","789","792"]},{"id":"50","label":"Blue","products":["784","787","790","793"]},{"id":"53","label":"Green","products":["785","788","791","794"]}],"position":"1"}},"template":"\u20b9<%- data.price %>","currencyFormat":"\u20b9%s","optionPrices":{"783":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"784":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"785":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"786":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"787":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"788":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"789":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"790":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"791":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"792":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"793":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}},"794":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6},"tierPrices":[],"msrpPrice":{"amount":null}}},"priceFormat":{"pattern":"\u20b9%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6}},"productId":"795","chooseText":"Choose an Option...","images":[],"index":{"783":{"145":"176","93":"49"},"784":{"145":"176","93":"50"},"785":{"145":"176","93":"53"},"786":{"145":"177","93":"49"},"787":{"145":"177","93":"50"},"788":{"145":"177","93":"53"},"789":{"145":"178","93":"49"},"790":{"145":"178","93":"50"},"791":{"145":"178","93":"53"},"792":{"145":"179","93":"49"},"793":{"145":"179","93":"50"},"794":{"145":"179","93":"53"}},"preSelectedGallery":[]},
+                "jsonSwatchConfig": {"145":{"176":{"type":"0","value":"32","label":"32"},"177":{"type":"0","value":"33","label":"33"},"178":{"type":"0","value":"34","label":"34"},"179":{"type":"0","value":"36","label":"36"}},"93":{"49":{"type":"1","value":"#000000","label":"Black"},"50":{"type":"1","value":"#1857f7","label":"Blue"},"53":{"type":"1","value":"#53a828","label":"Green"}}},
+                "mediaCallback": "http://127.0.0.1/bcs/swatches/ajax/media/",
+                "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}}            }
+        }
+    }
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=priceBox][data-price-box=product-id-795]": {
+            "priceBox": {
+                "priceConfig": {
+                    "priceFormat": {"pattern":"\u20b9%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                    "prices": {"oldPrice":{"amount":57},"basePrice":{"amount":45.6},"finalPrice":{"amount":45.6}}                }
+            }
+        }
+    }
+</script>
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="MP05" action="http://127.0.0.1/bcs/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C/product/795/" method="post">
+                                                            <input type="hidden" name="product" value="795">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjAuMS9iY3MvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RXlOeTR3TGpBdU1TOWlZM012UDFOSlJEMDVhV3hzYW5RM00zVmhiakZrWjJneU5uWnJielJ6T0haeE13JTJDJTJDL3Byb2R1Y3QvNzk1Lw,,">
+                                                            <input name="form_key" type="hidden" value="NukJbYapuQbiftgY" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/bcs\/wishlist\/index\/add\/","data":{"product":"795","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/127.0.0.1\/bcs\/catalog\/product_compare\/add\/","data":{"product":"795","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://127.0.0.1/bcs/supernova-sport-pant.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/p/mp04-gray_main_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Supernova Sport Pant"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Supernova Sport Pant"
+                                       href="http://127.0.0.1/bcs/supernova-sport-pant.html"
+                                       class="product-item-link">
+                                        Supernova Sport Pant                                    </a>
+                                </strong>
+                                                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="87%">
+            <span style="width:87%"><span>87%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://127.0.0.1/bcs/supernova-sport-pant.html#reviews">3&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="782" data-price-box="product-id-782">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-782-widget-product-grid"                data-price-amount="36"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹36.00</span></span>
+        </span>
+</span>
+
+    <span class="old-price sly-old-price no-display">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-782-widget-product-grid"                data-price-amount="45"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">₹45.00</span></span>
+        </span>
+    </span>
+
+</div>
+                                <div class="swatch-opt-782"
+     data-role="swatch-option-782"></div>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=swatch-option-782]": {
+            "Magento_Swatches/js/swatch-renderer": {
+                "selectorProduct": ".product-item-details",
+                "onlySwatches": true,
+                "enableControlLabel": false,
+                "numberToShow": 16,
+                "jsonConfig": {"attributes":{"145":{"id":"145","code":"size","label":"Size","options":[{"id":"176","label":"32","products":["770","771","772"]},{"id":"177","label":"33","products":["773","774","775"]},{"id":"178","label":"34","products":["776","777","778"]},{"id":"179","label":"36","products":["779","780","781"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"49","label":"Black","products":["770","773","776","779"]},{"id":"52","label":"Gray","products":["771","774","777","780"]},{"id":"53","label":"Green","products":["772","775","778","781"]}],"position":"1"}},"template":"\u20b9<%- data.price %>","currencyFormat":"\u20b9%s","optionPrices":{"770":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"771":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"772":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"773":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"774":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"775":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"776":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"777":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"778":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"779":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"780":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}},"781":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36},"tierPrices":[],"msrpPrice":{"amount":null}}},"priceFormat":{"pattern":"\u20b9%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36}},"productId":"782","chooseText":"Choose an Option...","images":[],"index":{"770":{"145":"176","93":"49"},"771":{"145":"176","93":"52"},"772":{"145":"176","93":"53"},"773":{"145":"177","93":"49"},"774":{"145":"177","93":"52"},"775":{"145":"177","93":"53"},"776":{"145":"178","93":"49"},"777":{"145":"178","93":"52"},"778":{"145":"178","93":"53"},"779":{"145":"179","93":"49"},"780":{"145":"179","93":"52"},"781":{"145":"179","93":"53"}},"preSelectedGallery":[]},
+                "jsonSwatchConfig": {"145":{"176":{"type":"0","value":"32","label":"32"},"177":{"type":"0","value":"33","label":"33"},"178":{"type":"0","value":"34","label":"34"},"179":{"type":"0","value":"36","label":"36"}},"93":{"49":{"type":"1","value":"#000000","label":"Black"},"52":{"type":"1","value":"#8f8f8f","label":"Gray"},"53":{"type":"1","value":"#53a828","label":"Green"}}},
+                "mediaCallback": "http://127.0.0.1/bcs/swatches/ajax/media/",
+                "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}}            }
+        }
+    }
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=priceBox][data-price-box=product-id-782]": {
+            "priceBox": {
+                "priceConfig": {
+                    "priceFormat": {"pattern":"\u20b9%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                    "prices": {"oldPrice":{"amount":45},"basePrice":{"amount":36},"finalPrice":{"amount":36}}                }
+            }
+        }
+    }
+</script>
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="MP04" action="http://127.0.0.1/bcs/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C/product/782/" method="post">
+                                                            <input type="hidden" name="product" value="782">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjAuMS9iY3MvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RXlOeTR3TGpBdU1TOWlZM012UDFOSlJEMDVhV3hzYW5RM00zVmhiakZrWjJneU5uWnJielJ6T0haeE13JTJDJTJDL3Byb2R1Y3QvNzgyLw,,">
+                                                            <input name="form_key" type="hidden" value="NukJbYapuQbiftgY" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/bcs\/wishlist\/index\/add\/","data":{"product":"782","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/127.0.0.1\/bcs\/catalog\/product_compare\/add\/","data":{"product":"782","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://127.0.0.1/bcs/viktor-lumatech-trade-pant.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/p/mp02-gray_main_2.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Viktor LumaTech&trade; Pant"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Viktor LumaTech&trade; Pant"
+                                       href="http://127.0.0.1/bcs/viktor-lumatech-trade-pant.html"
+                                       class="product-item-link">
+                                        Viktor LumaTech&trade; Pant                                    </a>
+                                </strong>
+                                                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="47%">
+            <span style="width:47%"><span>47%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://127.0.0.1/bcs/viktor-lumatech-trade-pant.html#reviews">3&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="756" data-price-box="product-id-756">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-756-widget-product-grid"                data-price-amount="36.8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹36.80</span></span>
+        </span>
+</span>
+
+    <span class="old-price sly-old-price no-display">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-756-widget-product-grid"                data-price-amount="46"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">₹46.00</span></span>
+        </span>
+    </span>
+
+</div>
+                                <div class="swatch-opt-756"
+     data-role="swatch-option-756"></div>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=swatch-option-756]": {
+            "Magento_Swatches/js/swatch-renderer": {
+                "selectorProduct": ".product-item-details",
+                "onlySwatches": true,
+                "enableControlLabel": false,
+                "numberToShow": 16,
+                "jsonConfig": {"attributes":{"145":{"id":"145","code":"size","label":"Size","options":[{"id":"176","label":"32","products":["744","745","746"]},{"id":"177","label":"33","products":["747","748","749"]},{"id":"178","label":"34","products":["750","751","752"]},{"id":"179","label":"36","products":["753","754","755"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"50","label":"Blue","products":["744","747","750","753"]},{"id":"52","label":"Gray","products":["745","748","751","754"]},{"id":"58","label":"Red","products":["746","749","752","755"]}],"position":"1"}},"template":"\u20b9<%- data.price %>","currencyFormat":"\u20b9%s","optionPrices":{"744":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"745":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"746":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"747":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"748":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"749":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"750":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"751":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"752":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"753":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"754":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}},"755":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8},"tierPrices":[],"msrpPrice":{"amount":null}}},"priceFormat":{"pattern":"\u20b9%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8}},"productId":"756","chooseText":"Choose an Option...","images":[],"index":{"744":{"145":"176","93":"50"},"745":{"145":"176","93":"52"},"746":{"145":"176","93":"58"},"747":{"145":"177","93":"50"},"748":{"145":"177","93":"52"},"749":{"145":"177","93":"58"},"750":{"145":"178","93":"50"},"751":{"145":"178","93":"52"},"752":{"145":"178","93":"58"},"753":{"145":"179","93":"50"},"754":{"145":"179","93":"52"},"755":{"145":"179","93":"58"}},"preSelectedGallery":[]},
+                "jsonSwatchConfig": {"145":{"176":{"type":"0","value":"32","label":"32"},"177":{"type":"0","value":"33","label":"33"},"178":{"type":"0","value":"34","label":"34"},"179":{"type":"0","value":"36","label":"36"}},"93":{"50":{"type":"1","value":"#1857f7","label":"Blue"},"52":{"type":"1","value":"#8f8f8f","label":"Gray"},"58":{"type":"1","value":"#ff0000","label":"Red"}}},
+                "mediaCallback": "http://127.0.0.1/bcs/swatches/ajax/media/",
+                "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}}            }
+        }
+    }
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=priceBox][data-price-box=product-id-756]": {
+            "priceBox": {
+                "priceConfig": {
+                    "priceFormat": {"pattern":"\u20b9%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                    "prices": {"oldPrice":{"amount":46},"basePrice":{"amount":36.8},"finalPrice":{"amount":36.8}}                }
+            }
+        }
+    }
+</script>
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="MP02" action="http://127.0.0.1/bcs/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C/product/756/" method="post">
+                                                            <input type="hidden" name="product" value="756">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjAuMS9iY3MvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RXlOeTR3TGpBdU1TOWlZM012UDFOSlJEMDVhV3hzYW5RM00zVmhiakZrWjJneU5uWnJielJ6T0haeE13JTJDJTJDL3Byb2R1Y3QvNzU2Lw,,">
+                                                            <input name="form_key" type="hidden" value="NukJbYapuQbiftgY" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/bcs\/wishlist\/index\/add\/","data":{"product":"756","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/127.0.0.1\/bcs\/catalog\/product_compare\/add\/","data":{"product":"756","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://127.0.0.1/bcs/geo-insulated-jogging-pant.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/p/mp03-black_main_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Geo Insulated Jogging Pant"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Geo Insulated Jogging Pant"
+                                       href="http://127.0.0.1/bcs/geo-insulated-jogging-pant.html"
+                                       class="product-item-link">
+                                        Geo Insulated Jogging Pant                                    </a>
+                                </strong>
+                                                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="70%">
+            <span style="width:70%"><span>70%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://127.0.0.1/bcs/geo-insulated-jogging-pant.html#reviews">2&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="769" data-price-box="product-id-769">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-769-widget-product-grid"                data-price-amount="40.8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹40.80</span></span>
+        </span>
+</span>
+
+    <span class="old-price sly-old-price no-display">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-769-widget-product-grid"                data-price-amount="51"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">₹51.00</span></span>
+        </span>
+    </span>
+
+</div>
+                                <div class="swatch-opt-769"
+     data-role="swatch-option-769"></div>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=swatch-option-769]": {
+            "Magento_Swatches/js/swatch-renderer": {
+                "selectorProduct": ".product-item-details",
+                "onlySwatches": true,
+                "enableControlLabel": false,
+                "numberToShow": 16,
+                "jsonConfig": {"attributes":{"145":{"id":"145","code":"size","label":"Size","options":[{"id":"176","label":"32","products":["757","758","759"]},{"id":"177","label":"33","products":["760","761","762"]},{"id":"178","label":"34","products":["763","764","765"]},{"id":"179","label":"36","products":["766","767","768"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"50","label":"Blue","products":["757","760","763","766"]},{"id":"53","label":"Green","products":["758","761","764","767"]},{"id":"58","label":"Red","products":["759","762","765","768"]}],"position":"1"}},"template":"\u20b9<%- data.price %>","currencyFormat":"\u20b9%s","optionPrices":{"757":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"758":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"759":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"760":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"761":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"762":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"763":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"764":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"765":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"766":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"767":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}},"768":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8},"tierPrices":[],"msrpPrice":{"amount":null}}},"priceFormat":{"pattern":"\u20b9%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8}},"productId":"769","chooseText":"Choose an Option...","images":[],"index":{"757":{"145":"176","93":"50"},"758":{"145":"176","93":"53"},"759":{"145":"176","93":"58"},"760":{"145":"177","93":"50"},"761":{"145":"177","93":"53"},"762":{"145":"177","93":"58"},"763":{"145":"178","93":"50"},"764":{"145":"178","93":"53"},"765":{"145":"178","93":"58"},"766":{"145":"179","93":"50"},"767":{"145":"179","93":"53"},"768":{"145":"179","93":"58"}},"preSelectedGallery":[]},
+                "jsonSwatchConfig": {"145":{"176":{"type":"0","value":"32","label":"32"},"177":{"type":"0","value":"33","label":"33"},"178":{"type":"0","value":"34","label":"34"},"179":{"type":"0","value":"36","label":"36"}},"93":{"50":{"type":"1","value":"#1857f7","label":"Blue"},"53":{"type":"1","value":"#53a828","label":"Green"},"58":{"type":"1","value":"#ff0000","label":"Red"}}},
+                "mediaCallback": "http://127.0.0.1/bcs/swatches/ajax/media/",
+                "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}}            }
+        }
+    }
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=priceBox][data-price-box=product-id-769]": {
+            "priceBox": {
+                "priceConfig": {
+                    "priceFormat": {"pattern":"\u20b9%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                    "prices": {"oldPrice":{"amount":51},"basePrice":{"amount":40.8},"finalPrice":{"amount":40.8}}                }
+            }
+        }
+    }
+</script>
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="MP03" action="http://127.0.0.1/bcs/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C/product/769/" method="post">
+                                                            <input type="hidden" name="product" value="769">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjAuMS9iY3MvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RXlOeTR3TGpBdU1TOWlZM012UDFOSlJEMDVhV3hzYW5RM00zVmhiakZrWjJneU5uWnJielJ6T0haeE13JTJDJTJDL3Byb2R1Y3QvNzY5Lw,,">
+                                                            <input name="form_key" type="hidden" value="NukJbYapuQbiftgY" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/bcs\/wishlist\/index\/add\/","data":{"product":"769","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/127.0.0.1\/bcs\/catalog\/product_compare\/add\/","data":{"product":"769","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>

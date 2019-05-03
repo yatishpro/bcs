@@ -1,0 +1,8 @@
+{
+    "readiness_checks": {
+        "error": "<br/>Found non-writable path(s):<br/>/var/www/html/kb/.github<br/>/var/www/html/kb/.htaccess.sample<br/>/var/www/html/kb/.php_cs.dist<br/>/var/www/html/kb/.travis.yml<br/>/var/www/html/kb/.user.ini",
+        "file_permissions_verified": false
+    },
+    "last_timestamp": 1556864582,
+    "current_timestamp": 1556864642
+}

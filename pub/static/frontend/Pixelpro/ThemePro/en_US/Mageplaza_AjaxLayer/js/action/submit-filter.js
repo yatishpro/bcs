@@ -1,0 +1,1 @@
+/var/www/html/custom/vendor/mageplaza/module-ajax-layered-navigation/view/frontend/web/js/action/submit-filter.js

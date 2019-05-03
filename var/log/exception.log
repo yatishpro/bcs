@@ -1,0 +1,54 @@
+[2019-04-26 12:30:25] main.CRITICAL: MBI service CURL connection error #6: Could not resolve host: advancedreporting.rjmetrics.com {"exception":"[object] (Exception(code: 0): MBI service CURL connection error #6: Could not resolve host: advancedreporting.rjmetrics.com at /var/www/html/custom/vendor/magento/module-analytics/Model/Connector/Http/Client/Curl.php:75)"} []
+[2019-04-27 02:30:04] main.CRITICAL: MBI service CURL connection error #6: Could not resolve host: advancedreporting.rjmetrics.com {"exception":"[object] (Exception(code: 0): MBI service CURL connection error #6: Could not resolve host: advancedreporting.rjmetrics.com at /var/www/html/custom/vendor/magento/module-analytics/Model/Connector/Http/Client/Curl.php:75)"} []
+[2019-04-29 09:30:18] main.CRITICAL: Theme layout update file '/var/www/html/custom/app/design/frontend/Pixelpro/ThemePro/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+Opening and ending tag mismatch: move line 10 and body
+ Line: 11
+Opening and ending tag mismatch: body line 9 and page
+ Line: 12
+Premature end of data in tag page line 8
+ Line: 13 {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file '/var/www/html/custom/app/design/frontend/Pixelpro/ThemePro/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+Opening and ending tag mismatch: move line 10 and body
+ Line: 11
+Opening and ending tag mismatch: body line 9 and page
+ Line: 12
+Premature end of data in tag page line 8
+ Line: 13 at /var/www/html/custom/vendor/magento/framework/View/Model/Layout/Merge.php:743)"} []
+[2019-04-29 09:30:33] main.CRITICAL: Theme layout update file '/var/www/html/custom/app/design/frontend/Pixelpro/ThemePro/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+Opening and ending tag mismatch: move line 10 and body
+ Line: 11
+Opening and ending tag mismatch: body line 9 and page
+ Line: 12
+Premature end of data in tag page line 8
+ Line: 13 {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file '/var/www/html/custom/app/design/frontend/Pixelpro/ThemePro/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+Opening and ending tag mismatch: move line 10 and body
+ Line: 11
+Opening and ending tag mismatch: body line 9 and page
+ Line: 12
+Premature end of data in tag page line 8
+ Line: 13 at /var/www/html/custom/vendor/magento/framework/View/Model/Layout/Merge.php:743)"} []
+[2019-04-29 09:32:37] main.CRITICAL: Element 'move', attribute 'before': [facet 'pattern'] The value '' is not accepted by the pattern '[a-zA-Z][a-zA-Z\d\-_\.]*|-'.
+Line: 1128
+
+Element 'move', attribute 'before': '' is not a valid value of the atomic type 'elementPositionType'.
+Line: 1128
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'move', attribute 'before': [facet 'pattern'] The value '' is not accepted by the pattern '[a-zA-Z][a-zA-Z\\d\\-_\\.]*|-'.
+Line: 1128
+
+Element 'move', attribute 'before': '' is not a valid value of the atomic type 'elementPositionType'.
+Line: 1128
+ at /var/www/html/custom/vendor/magento/framework/Config/Dom.php:400)"} []
+[2019-04-29 09:57:23] main.CRITICAL: Theme layout update file '/var/www/html/custom/app/design/frontend/Pixelpro/ThemePro/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+Opening and ending tag mismatch: move line 11 and body
+ Line: 12
+Opening and ending tag mismatch: body line 9 and page
+ Line: 13
+Premature end of data in tag page line 8
+ Line: 14 {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file '/var/www/html/custom/app/design/frontend/Pixelpro/ThemePro/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+Opening and ending tag mismatch: move line 11 and body
+ Line: 12
+Opening and ending tag mismatch: body line 9 and page
+ Line: 13
+Premature end of data in tag page line 8
+ Line: 14 at /var/www/html/custom/vendor/magento/framework/View/Model/Layout/Merge.php:743)"} []
+[2019-04-29 11:17:01] main.CRITICAL: Unable to send mail: Unknown error {"exception":"[object] (Magento\\Framework\\Exception\\MailException(code: 0): Unable to send mail: Unknown error at /var/www/html/custom/vendor/magento/module-email/Model/Transport.php:101, Zend\\Mail\\Transport\\Exception\\RuntimeException(code: 0): Unable to send mail: Unknown error at /var/www/html/custom/vendor/zendframework/zend-mail/src/Transport/Sendmail.php:305)"} []
+[2019-05-01 10:30:14] main.CRITICAL: MBI service CURL connection error #6: Could not resolve host: advancedreporting.rjmetrics.com {"exception":"[object] (Exception(code: 0): MBI service CURL connection error #6: Could not resolve host: advancedreporting.rjmetrics.com at /var/www/html/custom/vendor/magento/module-analytics/Model/Connector/Http/Client/Curl.php:75)"} []

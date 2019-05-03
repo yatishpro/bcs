@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2013-2017 Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="2columns-left" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <!-- <css src="style.css" />
+        <script src="Magento_Catalog::js/myjs.js" />
+        <link src="js/myjs.js"> -->
+
+        <!-- Loading from exernal links
+        <css src="soruce_css_url" src_type="url" />
+        <script src="source_js_url" src_type="url"> -->
+<!-- 
+        Google Font load
+
+        <link type="text/css" src="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet"  src_type="url> -->
+    </head>
+</page>

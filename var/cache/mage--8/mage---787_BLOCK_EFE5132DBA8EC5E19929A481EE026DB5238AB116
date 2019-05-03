@@ -1,0 +1,717 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1556864782;s:6:"expire";i:1556951182;s:4:"tags";s:33:"787_CAT_P,787_BLOCK_HTML,787_MAGE";}
+    <div class="mp-product-slider-block block widget block-products-list grid">
+        <h2 class="mp-product-slider-title">Demo Product Slider</h2>
+        <p class="mp-ps-info">demo product slider description</p>
+    </div>
+    <div class="block-content">
+        <div class="products-grid grid">
+            <ol class="product-items widget-viewed-grid">
+                                <div id="mp-list-items-" class="owl-carousel owl-theme">
+                                            <li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/fusion-backpack.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/b/mb02-gray-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Image"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Fusion Backpack"
+                                       href="http://127.0.0.1/bcs/fusion-backpack.html">
+                                        Fusion Backpack                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="product-price-6"                data-price-amount="59"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹59.00</span></span>
+        </span>
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/6\/","data":{"product":"6","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/stark-fundamental-hoodie.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/h/mh06-blue_main_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Stark Fundamental Hoodie"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Stark Fundamental Hoodie"
+                                       href="http://127.0.0.1/bcs/stark-fundamental-hoodie.html">
+                                        Stark Fundamental Hoodie                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="148" data-price-box="product-id-148">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-148"                data-price-amount="42"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹42.00</span></span>
+        </span>
+</span>
+
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/148\/","data":{"product":"148","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/fusion-backpack-1.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/b/mb02-gray-0_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Image"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Fusion Backpack Demo"
+                                       href="http://127.0.0.1/bcs/fusion-backpack-1.html">
+                                        Fusion Backpack Demo                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="2047" data-price-box="product-id-2047">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="product-price-2047"                data-price-amount="59"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹59.00</span></span>
+        </span>
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/2047\/","data":{"product":"2047","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/push-it-messenger-bag.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/w/b/wb04-blue-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Image"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Push It Messenger Bag"
+                                       href="http://127.0.0.1/bcs/push-it-messenger-bag.html">
+                                        Push It Messenger Bag                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="14" data-price-box="product-id-14">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="product-price-14"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹45.00</span></span>
+        </span>
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/14\/","data":{"product":"14","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/kratos-gym-pant.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/p/mp05-blue_main_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Kratos Gym Pant"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Kratos Gym Pant"
+                                       href="http://127.0.0.1/bcs/kratos-gym-pant.html">
+                                        Kratos Gym Pant                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="795" data-price-box="product-id-795">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-795"                data-price-amount="45.6"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹45.60</span></span>
+        </span>
+</span>
+
+    <span class="old-price sly-old-price no-display">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-795"                data-price-amount="57"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">₹57.00</span></span>
+        </span>
+    </span>
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/795\/","data":{"product":"795","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/impulse-duffle.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/u/b/ub02-black-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Impulse Duffle"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Impulse Duffle"
+                                       href="http://127.0.0.1/bcs/impulse-duffle.html">
+                                        Impulse Duffle                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="7" data-price-box="product-id-7">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="product-price-7"                data-price-amount="74"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹74.00</span></span>
+        </span>
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/7\/","data":{"product":"7","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/sprite-yoga-companion-kit.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/l/u/luma-yoga-kit-2.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Sprite Yoga Companion Kit"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Sprite Yoga Companion Kit"
+                                       href="http://127.0.0.1/bcs/sprite-yoga-companion-kit.html">
+                                        Sprite Yoga Companion Kit                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="46" data-price-box="product-id-46">
+            <p class="price-from">
+            
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">From</span>
+        <span  id="from-46"                data-price-amount="61"
+        data-price-type="minPrice"
+        class="price-wrapper "
+    ><span class="price">₹61.00</span></span>
+        </span>
+                    </p>
+        <p class="price-to">
+            
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">To</span>
+        <span  id="to-46"                data-price-amount="77"
+        data-price-type="maxPrice"
+        class="price-wrapper "
+    ><span class="price">₹77.00</span></span>
+        </span>
+                    </p>
+    </div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-mage-init='{"redirectUrl": {"url": "http://127.0.0.1/bcs/sprite-yoga-companion-kit.html?options=cart"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/bruno-compete-hoodie.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/h/mh03-black_main_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Bruno Compete Hoodie"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Bruno Compete Hoodie"
+                                       href="http://127.0.0.1/bcs/bruno-compete-hoodie.html">
+                                        Bruno Compete Hoodie                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="100" data-price-box="product-id-100">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-100"                data-price-amount="63"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹63.00</span></span>
+        </span>
+</span>
+
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/100\/","data":{"product":"100","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/lifelong-fitness-iv.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/l/t/lt02.jpg"
+            max-width="240"
+            max-height="300"
+            alt="LifeLong Fitness IV"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="LifeLong Fitness IV"
+                                       href="http://127.0.0.1/bcs/lifelong-fitness-iv.html">
+                                        LifeLong Fitness IV                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="48" data-price-box="product-id-48">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="product-price-48"                data-price-amount="14"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹14.00</span></span>
+        </span>
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/48\/","data":{"product":"48","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/frankie-sweatshirt.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/h/mh04-green_main_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Frankie  Sweatshirt"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Frankie  Sweatshirt"
+                                       href="http://127.0.0.1/bcs/frankie-sweatshirt.html">
+                                        Frankie  Sweatshirt                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="116" data-price-box="product-id-116">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-116"                data-price-amount="60"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹60.00</span></span>
+        </span>
+</span>
+
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/116\/","data":{"product":"116","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/hollister-backyard-sweatshirt.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/h/mh05-white_main_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Hollister Backyard Sweatshirt"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Hollister Backyard Sweatshirt"
+                                       href="http://127.0.0.1/bcs/hollister-backyard-sweatshirt.html">
+                                        Hollister Backyard Sweatshirt                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="132" data-price-box="product-id-132">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-132"                data-price-amount="52"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹52.00</span></span>
+        </span>
+</span>
+
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/132\/","data":{"product":"132","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/luma-yoga-for-life.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/l/t/lt06.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Luma Yoga For Life"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Luma Yoga For Life"
+                                       href="http://127.0.0.1/bcs/luma-yoga-for-life.html">
+                                        Luma Yoga For Life                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="52" data-price-box="product-id-52">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="product-price-52"                data-price-amount="0"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹0.00</span></span>
+        </span>
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-mage-init='{"redirectUrl": {"url": "http://127.0.0.1/bcs/luma-yoga-for-life.html?options=cart"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/teton-pullover-hoodie.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/h/mh02-black_main_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Teton Pullover Hoodie"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Teton Pullover Hoodie"
+                                       href="http://127.0.0.1/bcs/teton-pullover-hoodie.html">
+                                        Teton Pullover Hoodie                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="84" data-price-box="product-id-84">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-84"                data-price-amount="70"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹70.00</span></span>
+        </span>
+</span>
+
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/84\/","data":{"product":"84","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/zing-jump-rope.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/u/g/ug04-bk-0.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Zing Jump Rope"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Zing Jump Rope"
+                                       href="http://127.0.0.1/bcs/zing-jump-rope.html">
+                                        Zing Jump Rope                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="17" data-price-box="product-id-17">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="product-price-17"                data-price-amount="12"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹12.00</span></span>
+        </span>
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/17\/","data":{"product":"17","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                    </li><li class="product-item product-slider"">                        <div class="slider-product-item-info">
+                            <a href="http://127.0.0.1/bcs/deion-long-sleeve-evercool-trade-tee.html"
+                               class="product photo slider-product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/bcs/pub/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/s/ms07-green_main_1.jpg"
+            max-width="240"
+            max-height="300"
+            alt="Deion Long-Sleeve EverCool&trade; Tee"/></span>
+</span>
+                            </a>
+                            <div class="product details slider-product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="Deion Long-Sleeve EverCool&trade; Tee"
+                                       href="http://127.0.0.1/bcs/deion-long-sleeve-evercool-trade-tee.html">
+                                        Deion Long-Sleeve EverCool&trade; Tee                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="612" data-price-box="product-id-612">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-612"                data-price-amount="39"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹39.00</span></span>
+        </span>
+</span>
+
+
+</div>                                <div class="product actions slider-product-item-actions">
+                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary mageplaza-product-slider-button"
+                                                        data-post='{"action":"http:\/\/127.0.0.1\/bcs\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw%2C%2C\/product\/612\/","data":{"product":"612","uenc":"aHR0cDovLzEyNy4wLjAuMS9iY3MvP1NJRD05aWxsanQ3M3VhbjFkZ2gyNnZrbzRzOHZxMw,,"}}'
+                                                        type="button" title="Add to Cart">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                                                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                        </li>                                    </div>
+            </ol>
+        </div>
+            </div>
+    <script>
+        require(['jquery', 'mageplaza/core/owl.carousel'], function ($) {
+            $('#mp-list-items-').owlCarousel({loop:true,margin:10,nav:false,dots:false,lazyLoad:true,autoplay:false,autoplayTimeout:5000,autoplayHoverPause:false,responsive:{}});
+        });
+    </script>

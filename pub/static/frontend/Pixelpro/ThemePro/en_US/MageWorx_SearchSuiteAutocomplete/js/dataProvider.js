@@ -1,0 +1,1 @@
+/var/www/html/custom/vendor/mageworx/module-searchsuiteautocomplete/view/frontend/web/js/dataProvider.js
